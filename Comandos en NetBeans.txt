@@ -1,0 +1,10 @@
+Ctrl + e = borrar una linea
+Ctrl + shift + c = comentar o descomentar
+alt + shift + arrow up/down = cambiar de lugar la linea de codigo
+Ctrl + Shift + arrow up/down = copiar 
+Alt + Shift + f = formatear el codigo
+Ctrl + Shift + i = Arregla todos los imports
+sout + tab = shortcut para System.out.printLn("");
+fl + tab = shorcout para float
+trycatch+tab = shorcout para try
+do + tab = shorcut 
